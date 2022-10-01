@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='binGraph',
-    version='3.3',
+    version='3.4',
     description='CAPE\'s version of binGraph',
     license='GNU Affero General Public License v3.0',
     packages=find_packages(),
